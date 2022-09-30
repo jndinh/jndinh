@@ -5,5 +5,4 @@ Just a space girl learning various languages and technology on every galaxy stop
 
 ## 🔥 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jndinh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jndinh&show_icons=true&theme=dracula)
