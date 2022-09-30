@@ -1,2 +1,2 @@
-![studio ghibli aesthetic](https://i.pinimg.com/originals/3f/b4/79/3fb479f2c7f23497371f58588edfa19d.jpg)
+![studio ghibli aesthetic](https://i.pinimg.com/564x/26/e0/ff/26e0ff55e22ffc9b1724e4cce959a5e2.jpg)
 # Joanna's Space World :sparkles:
