@@ -4,4 +4,5 @@
 Just a space girl with her dog learning various languages and technology on every galaxy stopped by.
 
 ## 🔥 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jndinh&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jndinh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+[![jndinh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jndinh)](https://github.com/anuraghazra/github-readme-stats)
